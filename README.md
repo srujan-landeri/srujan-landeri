@@ -6,10 +6,10 @@
 ### <div align="center">Hey Everyone👋My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently in the process of learning full-stack 👨‍💻 I love to collaborate with people and work in a team environment😇</div>  
   
 
-- 🔭 I’m currently working on [Todos Application using React](https://github.com/srujan-landeri/todos-react)  
+- 🔭 I’m currently working on [MUSEUM NAVIGATION USING REACT](https://github.com/srujan-landeri/todos-react)  
   
 
-- 🌱 I’m currently learning React and Firebase Integration  
+- 🌱 I’m currently learning Machine Learning and React
   
 
 <br/>  
