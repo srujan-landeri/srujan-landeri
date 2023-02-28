@@ -1,18 +1,27 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%;margin:auto" />
+<div align="center" width="30px">
+<img height="500" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%;margin:auto" />
 </div>  
   
 
-### <div align="center">Hey Everyone👋My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently in the process of learning full-stack 👨‍💻 I love to collaborate with people and work in a team environment😇</div>  
+  <br>
+  <br>
+  
+### <div align="center" width="400">Hey Everyone👋My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently in the process of learning full-stack 👨‍💻 I love to collaborate with people and work in a team environment😇</div>  
+  
+  <br>
+  
+- 🔭 I’m currently working on **<i>MUSEUM NAVIGATION USING REACT</i>**
   
 
-- 🔭 I’m currently working on <b><i>MUSEUM NAVIGATION USING REACT</i></b>
+- 🌱 I’m currently learning **<i>Machine Learning and REACT</i>**
+
+
+- 👯 I’m looking to collaborate on **<i>Machine Learning</i>**
+
+
   
 
-- 🌱 I’m currently learning <b><i>Machine Learning and React</i></b>
-  
-
-<br/>  
+<br>  
 
 
 ## My Skill Set  
@@ -46,8 +55,24 @@
 
 <br/>  
 
+## GitHub Stats
+
+<br>
+
+<div>
+  
+<img width="500" height="200"  src = "https://github-readme-stats.vercel.app/api?username=srujan-landeri&&show_icons=true&theme=radical" alt="readme stats"> 
+
+<img width="500" height="200"  src = "http://github-readme-streak-stats.herokuapp.com/?user=srujan-landeri&theme=yellow-green" alt="readme stats">
+
+</div>
+
+<br>
 
 ## Connect with me  
+
+<br/>  
+
 <div align="center">
 <a href="https://github.com/srujan-landeri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -61,8 +86,6 @@
 </div>  
   
 
-<br/>  
-  
 
 <br/>  
 
@@ -72,6 +95,4 @@
   
 
 <br/>  
-
-
 <br />
