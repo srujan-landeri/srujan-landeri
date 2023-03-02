@@ -63,9 +63,9 @@
 
 <div>
   
-<img width="500" height="200"  src = "https://github-readme-stats.vercel.app/api?username=srujan-landeri&&show_icons=true&theme=radical" alt="readme stats"> 
+<img width="450" height="200"  src = "https://github-readme-stats.vercel.app/api?username=srujan-landeri&&show_icons=true&theme=radical" alt="readme stats"> 
 
-<img width="500" height="200"  src = "http://github-readme-streak-stats.herokuapp.com/?user=srujan-landeri&theme=yellow-green" alt="readme stats">
+<img width="450" height="200"  src = "http://github-readme-streak-stats.herokuapp.com/?user=srujan-landeri&theme=yellow-green" alt="readme stats">
 
 </div>
 
