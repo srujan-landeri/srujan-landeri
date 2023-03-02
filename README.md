@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **<i>Machine Learning and REACT</i>**
 
 
-- 👯 I’m looking to collaborate on **<i>Machine Learning</i>**
+- 👯 I would love to collaborate with **<i>Opensource Enthusiasts</i>**
 
 
   
