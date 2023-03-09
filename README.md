@@ -20,6 +20,8 @@
 
 - 👯 I would love to collaborate with **<i>Opensource Enthusiasts</i>**
 
+- 🔗 **<i>Let's Connect on twitter</i>**  <a target="_blank" href= "https://twitter.com/srujan_landeri">@srujan_landeri</a>
+
 
   
 
