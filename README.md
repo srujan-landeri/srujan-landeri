@@ -12,7 +12,7 @@
   <hr>
   <br>
   
-- 🔭 I’m currently working on **<i>MUSEUM NAVIGATION USING REACT</i>**
+- 🔭 I’m currently working on **<i>React Router</i>**
   
 
 - 🌱 I’m currently learning **<i>Machine Learning and REACT</i>**
