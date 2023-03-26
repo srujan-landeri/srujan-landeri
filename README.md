@@ -1,21 +1,16 @@
-<div align="center" width="30px">
-<img height="500" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%;margin:auto" />
-</div>  
+<hr>
+
+### <div align="center" width="400"> Hello Everyone👋 </div> 
+
+### <div align="center">My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently in the process of learning full-stack 👨‍💻 I love to collaborate with people and work in a team environment.😇</div>  
+
+<hr>
+<br>
+  
+- 🔭 I’m currently working on **<i>Machine Learning</i>**
   
 
-  <br>
-  <br>
-  
-  <hr>
-  
-### <div align="center" width="400">Hey Everyone👋My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently in the process of learning full-stack 👨‍💻 I love to collaborate with people and work in a team environment😇</div>  
-  <hr>
-  <br>
-  
-- 🔭 I’m currently working on **<i>React Router</i>**
-  
-
-- 🌱 I’m currently learning **<i>Machine Learning and REACT</i>**
+- 🌱 I’m currently learning **<i>Machine Learning and Flutter</i>**
 
 
 - 👯 I would love to collaborate with **<i>Opensource Enthusiasts</i>**
