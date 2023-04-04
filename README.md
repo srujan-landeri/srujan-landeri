@@ -2,7 +2,7 @@
 
 ### <div align="center" width="400"> Hello Everyone👋 </div> 
 
-### <div align="center">My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently in the process of learning full-stack 👨‍💻 I love to collaborate with people and work in a team environment.😇</div>  
+### <div align="center">My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently exploring Cybersecurity 👨‍💻 I love to collaborate with people and work in a team environment.😇</div>  
 
 <hr>
 <br>
