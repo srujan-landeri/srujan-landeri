@@ -7,10 +7,10 @@
 <hr>
 <br>
   
-- 🔭 I’m currently working on **<i>Machine Learning</i>**
+- 🔭 I’m currently working on **<i>CyberSecurity</i>**
   
 
-- 🌱 I’m currently learning **<i>Machine Learning and Flutter</i>**
+- 🌱 I’m currently learning **<i>Linux and CyberSecurity</i>**
 
 
 - 👯 I would love to collaborate with **<i>Opensource Enthusiasts</i>**
