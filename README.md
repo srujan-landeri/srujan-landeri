@@ -2,15 +2,15 @@
 
 ### <div align="center" width="400"> Hello Everyone👋 </div> 
 
-### <div align="center">My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently exploring Cybersecurity 👨‍💻 I love to collaborate with people and work in a team environment.😇</div>  
+### <div align="center">My name is Srujan and I'm a Computer Science undergrad🧑‍🎓passionate about learning different technologies, currently exploring GenerativeAI 👨‍💻 I love to collaborate with people and work in a team environment.😇</div>  
 
 <hr>
 <br>
   
-- 🔭 I’m currently working on **<i>CyberSecurity</i>**
+- 🔭 I’m currently working on **<i>GenerativeAI</i>**
   
 
-- 🌱 I’m currently learning **<i>Linux and CyberSecurity</i>**
+- 🌱 I’m currently learning **<i>LLM and self-attention mechanism</i>**
 
 
 - 👯 I would love to collaborate with **<i>Opensource Enthusiasts</i>**
